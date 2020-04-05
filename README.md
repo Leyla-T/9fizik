@@ -31,15 +31,15 @@
 | 100 gram of meatball     |   264    |
 
 #VÜCUT KİTLE İNDEKSİ
-| *AİLE BİREYLERİ* | *KÜTLE DEĞERLERİ* | *BOY UZUNLUĞU* | *VÜCUT KİTLE ENDEKSİ* |   *SONUÇ*   |
-| :---------------:| :----------------:| :-------------:| :--------------------:| :----------:|
-|     *ANNEM*      |                   
-|     *BABAM*      |
-|     *ABLAM*      |
-|     *ABLAM*      |
-|     *ABLAM*      |
-|     *ABİM*       |
-
+| *AİLE BİREYLERİ* | *KÜTLE DEĞERLERİ(Kg)* | *BOY UZUNLUĞU(m)* | *VÜCUT KİTLE ENDEKSİ(Kg/m.m)* |        *SONUÇ*       |
+| :---------------:| :--------------------:| :----------------:| :----------------------------:| :-------------------:|
+|     *ANNEM*      |     **78**            |    **1.50**       |         **26.98**             |  **Fazla kilolu**    |
+|     *BABAM*      |     **67**            |    **1.69**       |         **23.45**             |  **Normal kilolu**   |
+|     *ABLAM*      |     **56**            |    **1.60**       |         **21.87**             |  **Normal kilolu**   |
+|     *ABLAM*      |     **60**            |    **1.57**       |         **24.34**             |  **Normal kilolu**   |
+|     *ABLAM*      |     **47**            |    **1.55**       |         **19.56**             |  **Normal kilolu**   |
+|     *ABİM*       |     **80**            |    **1.76**       |         **25.82**             |  **Fazla kilolu**    |
+|     *BEN*        |     **49**            |    **1.64**       |         **18.21**             |  **Düşük kilolu**    |
 
 
 
