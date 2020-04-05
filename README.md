@@ -1,5 +1,5 @@
 # 9fizik
 *Leyla*
-*Tektek*
+*Temtek
 *9e*
 *204*
