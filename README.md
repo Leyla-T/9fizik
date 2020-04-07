@@ -1,6 +1,6 @@
 # 9FİZİK
 *Leyla*
-*Temtek
+*Temtek*
 *9/E*
 *204*
 ## ABDIGOR PATTIES RECIPE
